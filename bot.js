@@ -24,7 +24,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : i1Suhaib ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`سعر البوت 15 الف اذا بدك تعال خاص ---> Anwar#2279`,"https://discordapp.com/channels/@me/626451542794567715")
+client.user.setGame(`Welcome TO Kin SerVer`,"https://www.youtube.com/channel/UCLL7O3mTN6ITxeMzxCdrDUw?view_as=subscriber")
 client.user.setStatus("dnd")
 });
 
